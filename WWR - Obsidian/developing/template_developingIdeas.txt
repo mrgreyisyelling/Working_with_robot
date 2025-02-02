@@ -1,0 +1,27 @@
+# 📌 Developing Idea - [YYYY-MM-DD HH:MM:SS]  
+
+## 🔹 Summary  
+(Condensed version of the idea provided—key themes, core concepts, and purpose.)  
+
+---
+
+## 🔹 Subprojects & Tasks  
+(A structured breakdown of smaller components and actionable steps.)  
+- **Subproject 1:** [Brief description]  
+  - [ ] Task 1  
+  - [ ] Task 2  
+- **Subproject 2:** [Brief description]  
+  - [ ] Task 1  
+  - [ ] Task 2  
+
+---
+
+## 🔹 Facts & Highlights  
+(Key insights, principles, and conclusions drawn from the idea.)  
+- 🟢 [Fact 1]  
+- 🟢 [Fact 2]  
+- 🟢 [Fact 3]  
+
+---
+
+🚀 **Next Step:** Define what needs further clarification or research.  

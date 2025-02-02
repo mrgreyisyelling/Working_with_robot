@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "dc7e9ce780ff8b4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7021fb1d1058410",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "555244fb7099fd75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202502012246 - Tenant Intake System - Project Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202502012246 - Tenant Intake System - Project Overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90c27b2652327f4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7f3970e016140c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54c623a026337a95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5675e3a4f51323f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "447fe99a6f314d4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "40d614472950cdff",
+    "type": "split",
+    "children": [
+      {
+        "id": "f92741035ebc6f75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f22bb09644bc2d74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "68c8e2427049fb96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "ec040cc028cd0bd2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bc90b73188da33ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "floating": {
+    "id": "68dfb95a7b37e712",
+    "type": "floating",
+    "children": [
+      {
+        "id": "dbc88344a04582f0",
+        "type": "window",
+        "children": [
+          {
+            "id": "3d68edc4c7e9a4d3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "55aea0fa6fdc4eb2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "202502012235.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "202502012235"
+                }
+              },
+              {
+                "id": "a1b08199396c679d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "202502012238.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "202502012238"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 28,
+        "y": 560,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2
+      }
+    ]
+  },
+  "active": "555244fb7099fd75",
+  "lastOpenFiles": [
+    "202502012244.md",
+    "202502012246 - Tenant Intake System - Project Overview.md",
+    "202502012238.md",
+    "202502012235.md",
+    "202502012231.md",
+    "recent trash/202502012142.md",
+    "recent trash",
+    "filtered/omnibus_2025-02-01_22-23-49.md",
+    "archive/omnibus_storage/omnibus_2025-02-01_22-28-02.zip",
+    "scripts/create_archive.py",
+    "filtered/omnibus_2025-02-01_22-18-21.md",
+    "filtered/omnibus_2025-02-01_22-15-36.md",
+    "filtered/omnibus_2025-02-01_21-58-57.md",
+    "archive/omnibus_storage/omnibus_2025-02-01_22-18-21.zip",
+    "archive/omnibus_storage/omnibus_2025-02-01_22-15-36.zip",
+    "filtered/omnibus_2025-02-01_22-14-14.md",
+    "archive/omnibus_storage/omnibus_2025-02-01_22-14-14.zip",
+    "archive/omnibus_storage",
+    "archive",
+    "filtered/omnibus_2025-02-01_22-03-48.zip",
+    "filtered/omnibus_2025-02-01_22-03-48.md",
+    "filtered/omnibus_2025-02-01_21-58-10.txt",
+    "recent trash/202502012136.md",
+    "recent trash/202502012130.md",
+    "developing/developing_idea_inbox.md",
+    "recent trash/202502012113.md",
+    "recent trash/202502012111.md",
+    "Welcome.md"
+  ]
+}
