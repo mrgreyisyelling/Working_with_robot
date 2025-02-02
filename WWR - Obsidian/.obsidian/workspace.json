@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202502012346.md",
+                "file": "2025-02-02 (copy).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202502012346"
+              "title": "2025-02-02 (copy)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 509.5004348754883
   },
   "right": {
     "id": "40d614472950cdff",
@@ -171,38 +171,41 @@
   },
   "active": "555244fb7099fd75",
   "lastOpenFiles": [
-    "202502012342.md",
+    "202502020858 - Project description and tasks (copy).md",
+    "202502020858 - Project description and tasks.md",
+    "2025-02-02 1.md",
+    "2025-02-02 (copy).md",
+    "2025-02-02.md",
+    "202502020908.md",
+    "202502020657.md",
     "202502012346.md",
+    "recent trash/202502012346.md",
+    "recent trash/202502012342.md",
+    "recent trash/202502012331.md",
+    "recent trash/202502012318.md",
+    "recent trash/202502012302.md",
+    "recent trash/202502012246 - Tenant Intake System - Project Overview.md",
+    "recent trash/202502012244.md",
+    "recent trash/202502012238.md",
+    "recent trash/202502012235.md",
+    "recent trash/202502012231.md",
+    "archive/omnibus_storage/omnibus_2025-02-02_06-51-49.zip",
+    "filtered/omnibus_2025-02-02_06-51-33.md",
+    "archive/omnibus_storage/omnibus_2025-02-02_06-51-23.zip",
+    "202502012342.md",
     "202502012231.md",
     "202502012246 - Tenant Intake System - Project Overview.md",
     "202502012244.md",
     "202502012238.md",
     "202502012235.md",
     "202502012331.md",
-    "202502012318.md",
-    "202502012302.md",
-    "recent trash/202502012142.md",
     "recent trash",
-    "filtered/omnibus_2025-02-01_22-23-49.md",
     "archive/omnibus_storage/omnibus_2025-02-01_22-28-02.zip",
     "scripts/create_archive.py",
-    "filtered/omnibus_2025-02-01_22-18-21.md",
-    "filtered/omnibus_2025-02-01_22-15-36.md",
-    "filtered/omnibus_2025-02-01_21-58-57.md",
     "archive/omnibus_storage/omnibus_2025-02-01_22-18-21.zip",
     "archive/omnibus_storage/omnibus_2025-02-01_22-15-36.zip",
-    "filtered/omnibus_2025-02-01_22-14-14.md",
     "archive/omnibus_storage/omnibus_2025-02-01_22-14-14.zip",
     "archive/omnibus_storage",
-    "archive",
-    "filtered/omnibus_2025-02-01_22-03-48.zip",
-    "filtered/omnibus_2025-02-01_22-03-48.md",
-    "filtered/omnibus_2025-02-01_21-58-10.txt",
-    "recent trash/202502012136.md",
-    "recent trash/202502012130.md",
-    "developing/developing_idea_inbox.md",
-    "recent trash/202502012113.md",
-    "recent trash/202502012111.md",
-    "Welcome.md"
+    "archive"
   ]
 }
